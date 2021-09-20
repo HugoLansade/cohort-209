@@ -1,0 +1,25 @@
+.table{
+    margin : 0 auto 40px auto;
+    font-size : 1.5em;
+  }
+
+  .table-1{
+    border: solid 1px black;
+  }
+  
+  
+  .schedule-table th, td{
+    border: solid 1px black;
+    padding : 5px 10px;
+    text-align : center;
+  }
+
+  .diamond{
+    border: solid 1px red;
+    color: red;
+  }
+  .heart{
+    color: red;
+    border: solid 1px red;
+    padding : 5px 20px;
+  }
